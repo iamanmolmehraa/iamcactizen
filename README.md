@@ -3,8 +3,7 @@
 <hr />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanmolmehra&label=Profile%20views&color=0e75b6&style=flat" alt="iamanmolmehra" /> </p>
-
-Working in Cactus Communication as a Software Engineer.
+Software Engineer at Cactus Global.
 
 <h3>:mailbox: Reach me out!</h3>
 
